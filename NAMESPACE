@@ -1,0 +1,9 @@
+useDynLib("darts")
+export(drawBoard,
+       simpleEM,
+       generalEM,
+       simpleExpScores,
+       generalExpScores,
+       drawHeatmap,
+       drawAimSpot)
+       
